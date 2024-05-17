@@ -1,0 +1,1 @@
+Utilizando o XMLHttpRequest fiz minha primeira implementação de requisição HTTP com XML e JSON para o desenvolvimento de uma pequena aplicação web capaz de buscar o logradouro de um endereço através do CEP.
